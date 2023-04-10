@@ -1,0 +1,17 @@
+A Vinheria Agnello<br>
+A  Pandemia  do  COVID19  alterou  a  forma  que  os  apreciadores  de  vinho  adquirem  suas garrafas e para a Vinheria Agnellonão foi diferente.<br> 
+Como tradicionalmente eram presenciais, assim como todos, a Agnello deve se adaptar às novas condições de contorno da nova realidade e consequentemente dos impactos<br>
+dentro do Business. Hoje, para  ajudá-los, você irá montar um menu de opções para seleção e respectivas compras de produtos da Vinheira Agnello,<br> 
+seguindo algumas necessidades:<br> 
+1.Faça o cadastro do cliente: forneça uma mensagem inicial, de boas-vindase solicite:<br>
+a.Nome completo<br>
+b.Idade<br>
+c. Endereço do Cliente<br> 
+d. Endereço de entrega<br>
+2.Se a compra estiver sendo feita para alguém menor de idade,<br> 
+a. forneça uma mensagem que o comprador deve ser maior de idade, e b.finalize o processo de compra.<br>
+3. Se a compra puder seguir (comprador maior de idade), a.crie um catalogo de vinhos com 5 opções e seus respectivos preços.<br> 
+b. Pergunte a quantidade de vinhos que serão comprados de cada tipo e<br> 
+c. Calcule o valor total do pedido<br>
+d. O valor mínimo para compra é de R$ 100,00.e.Se  total  do  pedido  for  maior  que  R$  200,00,  não  cobre  o  frete  (crie  um)  e forneça a mensagem: Frete Gratis.<br>
+4. No fim mostre uma mensagem com a quantidade de produtos comprados, valor total e o endereço de entregae agradeça o cliente pela compra.
